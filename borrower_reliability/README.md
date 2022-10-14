@@ -5,4 +5,4 @@
 
 ## Инструменты:
 
-Pandas
+Python, Pandas
