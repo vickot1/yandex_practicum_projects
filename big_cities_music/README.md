@@ -6,4 +6,4 @@
 
 ## Инструменты:
 
-Pandas
+Python, Pandas
