@@ -4,4 +4,4 @@
 Разработка системы оценки и рекомендации стоимости автомобиля на основе его характеристик, таких как марка, год выпуска, тип двигателя и т.д.
 
 ## Инструменты:
-Python, Pandas, lightgbm, CatBoost, Matplotlib
+Python, Pandas, lightgbm, CatBoost, Seaborn
